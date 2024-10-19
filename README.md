@@ -37,13 +37,17 @@ Customer
 
 
 Adapun beberapa flow chart yang terdapat pada menu pembelian tiket kereta adalah sebagai berikut:
-![Flow Diagram 1](https://github.com/user-attachments/assets/57936237-c794-4d61-9fb6-b4fce5f47903)
-![Flow Diagram 2](https://github.com/user-attachments/assets/938ecd9b-f7d3-42a5-9d25-595eec83a291)
+Flow Diagram Menu Customer
+Flow Diagram 1
+![image](https://github.com/user-attachments/assets/1a87cc5e-e399-4f28-8233-3fd0f84311be)
+Flow Diagram 2
+![image](https://github.com/user-attachments/assets/6b68952a-4e7c-4618-bbcc-81840154ef27)
+Flow Diagram 3
+![image](https://github.com/user-attachments/assets/7b6d1806-0e70-4ea3-b122-7f4c47ae9ba1)
 
-![Flow Diagram 3](https://github.com/user-attachments/assets/dc601b35-f6e0-4b85-9027-2f093b6bbeff)
 
 Sekian saya tutup dalam pengenalan dan penjelasan mengenai mini project yang saya kerjakan, adapaun beberapa Notes dalam mengakses file mini project diantaranya:
- -- Admin
+-- Admin
    1. User = 'admin'
    2. Password = 'admin1234'
 
