@@ -10,7 +10,7 @@ Akan melakukan simulasi pembuatan Tiket Kereta Api dengan menggunakan sistem CRU
 
 Fitur :
 Dalam pembuatan mini project pembelian tiket Kereta Api kali ini, saya membuat beberapa fitur yang dibagi menjadi 2 segmen diantaranya:
--- Admin
+Admin
     1. Login pegawai,
     2. Menu menampilkan data kereta (READ) yang bisa di akses dengan berbagai cara yakni:
         - Menampilkan bedasarkan No_kereta
@@ -23,7 +23,7 @@ Dalam pembuatan mini project pembelian tiket Kereta Api kali ini, saya membuat b
         - Menghapus data bedasarkan No_kereta
     6. Menu menampilkan data Pelunasan Tiket Kereta (READ).
 
--- Customer
+Customer
     1. Isi Identitas (Data yang diisi akan digunakan pada fitur CREATE),
     2. Menu menampilkan jadawl kereta (READ) yang bisa di akses dengan berbagai cara yakni:
         - Menampilkan bedasarkan No_kereta
