@@ -11,28 +11,28 @@ Akan melakukan simulasi pembuatan Tiket Kereta Api dengan menggunakan sistem CRU
 Fitur :
 Dalam pembuatan mini project pembelian tiket Kereta Api kali ini, saya membuat beberapa fitur yang dibagi menjadi 2 segmen diantaranya:
 Admin
-    1. Login pegawai,
-    2. Menu menampilkan data kereta (READ) yang bisa di akses dengan berbagai cara yakni:
+   1. Login pegawai,
+   2. Menu menampilkan data kereta (READ) yang bisa di akses dengan berbagai cara yakni:
         - Menampilkan bedasarkan No_kereta
         - Menampilkan bedasarkan Kode_kereta
         - Menampilkan bedasarkan Rute_kereta
-    3. Menu Penambahan data kereta (CREATE),
-    4. Menu Pengubahan data kereta (UPDATE),
-    5. Menu Penghapusan data kereta (DELETE) yang bisa di akses dengan berbagai cara yakni:
+   3. Menu Penambahan data kereta (CREATE),
+   4. Menu Pengubahan data kereta (UPDATE),
+   5. Menu Penghapusan data kereta (DELETE) yang bisa di akses dengan berbagai cara yakni:
         - Menghapus data bedasarkan Kode_kereta dan Rute_perjalanan,
         - Menghapus data bedasarkan No_kereta
-    6. Menu menampilkan data Pelunasan Tiket Kereta (READ).
+   6. Menu menampilkan data Pelunasan Tiket Kereta (READ).
 
 Customer
-    1. Isi Identitas (Data yang diisi akan digunakan pada fitur CREATE),
-    2. Menu menampilkan jadawl kereta (READ) yang bisa di akses dengan berbagai cara yakni:
+   1. Isi Identitas (Data yang diisi akan digunakan pada fitur CREATE),
+   2. Menu menampilkan jadawl kereta (READ) yang bisa di akses dengan berbagai cara yakni:
         - Menampilkan bedasarkan No_kereta
         - Menampilkan bedasarkan Kode_kereta
         - Menampilkan bedasarkan Rute_kereta
-    3. Menu Pemesanan tiket kereta (CREATE),
-    4. Menu Pengubahan Tiket kereta (UPDATE),
-    5. Menu Penghapusan Tiket kereta (DELETE),
-    6. Menu menampilkan data Pelunasan Tiket Kereta (READ).
+   3. Menu Pemesanan tiket kereta (CREATE),
+   4. Menu Pengubahan Tiket kereta (UPDATE),
+   5. Menu Penghapusan Tiket kereta (DELETE),
+   6. Menu menampilkan data Pelunasan Tiket Kereta (READ).
 
 
 Adapun beberapa flow chart yang terdapat pada menu pembelian tiket kereta adalah sebagai berikut:
