@@ -1,6 +1,6 @@
 Tema : PEMBELIAN TIKET KERETA API
 
-Akan melakukan simulasi pembuatan Tiket Kereta Api dengan menggunakan sistem CRUD dalam rangka belajar, melatih, dan mengembangkan ilmu yang telah dipelajari dalam semua mini project
+Akan melakukan simulasi pembuatan Tiket Kereta Api dengan menggunakan sistem CRUD dalam rangka belajar, melatih, dan mengembangkan ilmu yang telah dipelajari dalam sebuah mini project
 1. Alasan memilih tema Tiket Kereta Api adalah karena, dalam sistem pembelian tiket cukup komplex dimana proses pengolahan data akan dibagi menjadi 2 bagian, yakni data yang diolah oleh ADMIN server 
    dan data yang akan diinput oleh pelanggan/customer dalam melakukan pembelian tiket kereta,
 2. Akses data yang dibatasi antara Admin dan Customer menjadi salah satu tantangan dalam melakukan pembuatan mini project,
